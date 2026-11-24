@@ -1,6 +1,1 @@
 # Danh sách sản phẩm cần theo dõi
-products:
-  - name: "Ví dụ sản phẩm"
-    url: "https://example.com/product/123"
-    site: "example"
-    target_price: 500000
