@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+lxml
+sqlalchemy
+pandas
+matplotlib
+pyyaml
+fastapi
+uvicorn
+streamlit
+apscheduler
+python-dotenv
+pytest
